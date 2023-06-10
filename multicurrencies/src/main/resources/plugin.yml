@@ -1,0 +1,7 @@
+name: MultiCurrencies
+version: 1.0
+main: pl.mnekos.multicurrencies.MultiCurrenciesPlugin
+author: mnekos
+api-version: 1.13
+
+loadbefore: [Vault, PlaceholderAPI]
